@@ -1,2 +1,2 @@
 # SLE-LP
-code for paper "Lattice enumeration via linear programming" to appear in numerische mathematik
+C++ code for the paper "Lattice enumeration via linear programming" to appear in numerische mathematik
