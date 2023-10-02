@@ -17,7 +17,7 @@ double  dot_product (const vec_d& v1,
                      size_t j){
     double ans= 0 ;
     // if i==0, we don't even execute the loop,
-    // which agrees with convience of the paper.
+    // which agrees with convention of the paper.
     for (int k=0; k<j; k++)
         ans += v1[k]*v2[k];
     return ans;
