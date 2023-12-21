@@ -1,5 +1,7 @@
 # SLE-LP
-C++ code for the paper "Lattice enumeration via linear programming" to appear in numerische mathematik
+C++ code for the paper "Lattice enumeration via linear programming" 
+
+- Chkifa, M.A. Lattice enumeration via linear programming. Numer. Math. (2023). https://doi.org/10.1007/s00211-023-01376-6
 
 structure of the code
 
